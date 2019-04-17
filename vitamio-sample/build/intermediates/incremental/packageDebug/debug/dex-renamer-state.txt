@@ -1,0 +1,4 @@
+#Tue Apr 16 22:44:40 CST 2019
+base.0=D\:\\demellist\\vitamio\\vitamio-sample\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
